@@ -1,0 +1,31 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/obj/**"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg"
+        ],
+        "exclude": [
+          "**/obj/**"
+        ]
+      }
+    ],
+    "globalMetadata": {
+      "global_toc_asset_id": "MSFT/Test/Master/TOC.json",
+      "global_toc_depot_name": "DocsMSFTTestMaster"
+    },
+    "dest": "DocsMSFTTestContent",
+    "template": "op.html"
+  }
+}
