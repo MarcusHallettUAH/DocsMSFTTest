@@ -24,8 +24,7 @@
       }
     ],
     "globalMetadata": {
-      "global_toc_asset_id": "MSFT/Test/Master/GlobalToc.json",
-      "global_toc_depot_name": "DocsMSFTTestMaster"
+      "global_toc_asset_id": "MSFT/Test/Master/GlobalToc.json"
     },
     "dest": "DocsMSFTTestContent",
     "template": "op.html"
