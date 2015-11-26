@@ -11,16 +11,16 @@
     <title>{{title}}</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="./templates/bootstrap/Bootstrap_files/bootstrap.min.css" rel="stylesheet">
+    <link href="/msft/test/templates/bootstrap/Bootstrap_files/bootstrap.min.css" rel="stylesheet">
 
     <!-- MetisMenu CSS -->
-    <link href="./templates/bootstrap/Bootstrap_files/metisMenu.min.css" rel="stylesheet">
+    <link href="/msft/test/templates/bootstrap/Bootstrap_files/metisMenu.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="./templates/bootstrap/Bootstrap_files/sb-admin-2.css" rel="stylesheet">
+    <link href="/msft/test/templates/bootstrap/Bootstrap_files/sb-admin-2.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="./templates/bootstrap/Bootstrap_files/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="/msft/test/templates/bootstrap/Bootstrap_files/font-awesome.min.css" rel="stylesheet" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
