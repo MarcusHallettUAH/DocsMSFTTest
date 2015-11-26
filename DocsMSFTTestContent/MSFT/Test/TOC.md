@@ -1,1 +1,1 @@
-# [Sample](sample.md)
+#[Sample](sample.md)
