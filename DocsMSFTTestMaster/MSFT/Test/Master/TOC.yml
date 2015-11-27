@@ -1,0 +1,18 @@
+name: Documentation 
+href: /msft/test/
+homepage: /ems/index.html
+items:
+  - name: EM
+	href: /msft/test/
+	homepage: /ems/index.html
+	items:
+		- name: InTune
+		href: /msft/test/library
+		homepage:  /msft/test/library/index
+		items:
+			- name: Understand and Evaluate 
+			href: /msft/test/library/Understand_and_Evaluate/
+			homepage: /msft/test/library/Understand_and_Evaluate/introduction
+			- name: Get Started 
+			href: /msft/test/library/Get_Started
+			homepage: /msft/test/library/Get_Started/introduction
