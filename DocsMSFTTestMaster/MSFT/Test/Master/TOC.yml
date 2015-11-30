@@ -11,7 +11,7 @@
       homepage: /msft/test/library/index
       items:
       - name: Understand and Evaluate
-        href: /msft/test/library/Understand_and_Evaluate/
+        href: /msft/test/library/Understand_and_Evaluate
         homepage: /msft/test/library/Understand_and_Evaluate/introduction
       - name: Get Started 
         href: /msft/test/library/Get_Started
