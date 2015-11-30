@@ -1,7 +1,7 @@
-name: Documentation 
-href: /msft/test/
-homepage: /ems/index.html
-items:
+- name: Documentation 
+  href: /msft/test/
+  homepage: /ems/index.html
+  items:
   - name: Understand and Evaluate
     href: /msft/test/library/Understand_and_Evaluate/
     homepage: /msft/test/library/Understand_and_Evaluate/introduction
