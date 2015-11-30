@@ -8,9 +8,9 @@ items:
     items:
     - name: InTune
       href: /msft/test/library
-      homepage:  /msft/test/library/index
+      homepage: /msft/test/library/index
       items:
-      - name: Understand and Evaluate 
+      - name: Understand and Evaluate
         href: /msft/test/library/Understand_and_Evaluate/
         homepage: /msft/test/library/Understand_and_Evaluate/introduction
       - name: Get Started 
